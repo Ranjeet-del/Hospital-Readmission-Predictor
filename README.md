@@ -1,7 +1,7 @@
 # Hospital-Readmission-Predictor
 **Team Name: Team(SC2)_3_20
 
-Team Memembers:
+Team Members:
 1) Ranjeet Singh Bhogel
 2) Jaya Prakash Sahoo
 3) Gayatri Dhal
