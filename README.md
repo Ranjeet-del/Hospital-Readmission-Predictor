@@ -2,7 +2,7 @@
 **Team Name: Team(SC2)_3_20
 
 Team Members:
-1) Ranjeet Singh Bhogel
+1) Ranjeet Singh Baghel
 2) Jaya Prakash Sahoo
 3) Gayatri Dhal
 
